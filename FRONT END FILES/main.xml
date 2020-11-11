@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+	<TextView android:textSize="40sp" android:textColor="000" android:gravity="0x1" android:layout_gravity="0x1" android:id="false" android:background="b39ddb" android:padding="8dp" android:layout_width="-1" android:layout_height="-2" android:text="•••GOCHAMP•••" android:singleLine="true" />
+	<ImageView android:id="false" android:layout_width="-1" android:layout_height="300dp" android:src="res/drawable-xhdpi-v4/jdjs.png" android:scaleType="5" />
+	<Button android:textSize="25sp" android:textColor="000" android:gravity="0x1" android:layout_gravity="0x1" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="START" />
+</LinearLayout>

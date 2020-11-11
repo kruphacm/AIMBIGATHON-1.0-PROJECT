@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<TextView android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Tell us more about yourself :" />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<TextView android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2" android:text="What is your favourite domain?" />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Science " />
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Maths" />
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Computer Science" />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Language " />
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Arts" />
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Social Science" />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<TextView android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2" android:text="How strong are you in your domain?" />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="0 - 25" />
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="25 - 50" />
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="50 - 75" />
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="75 - 100" />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<TextView android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2" android:text="Mention your weak area :" />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Maths" />
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Science" />
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Social Science " />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Arts" />
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Language" />
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Computer Science" />
+	</LinearLayout>
+	<Button android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2" android:text="Next" />
+</LinearLayout>

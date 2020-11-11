@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<TextView android:textSize="14sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Which of the following do you consider as a hobby ?" />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Blogging" />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Playing an instrument" />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Stamp Collection" />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Doodling " />
+	</LinearLayout>
+	<Button android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2" android:text="Next" />
+</LinearLayout>

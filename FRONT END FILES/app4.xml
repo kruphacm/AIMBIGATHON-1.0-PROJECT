@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<TextView android:textSize="16sp" android:textColor="000" android:id="false" android:background="a1887f" android:padding="8dp" android:layout_width="-1" android:layout_height="-2" android:text="Step 4 of 4 : REQUIREMENTS " />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<TextView android:textSize="14sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="What is the minimum salary are you looking for in a career ?" />
+	</LinearLayout>
+	<EditText android:textSize="12sp" android:textColor="000" android:textColorHint="607d8b" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2" android:hint="Edit Text" />
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<TextView android:textSize="14sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2" android:text="What sort of educational requirements are you looking for in a career ?" />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="High School" />
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Bachelor&apos;s " />
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Master&apos;s or above" />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<TextView android:textSize="14sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="What sort of projected job market growth are you looking for in a career ?" />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Doesn&apos;t matter" />
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="No change or better" />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Average growth or better" />
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Faster than average growth" />
+	</LinearLayout>
+	<Button android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2" android:text="Next" />
+</LinearLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+	<LinearLayout android:orientation="0" android:id="false" android:background="ffffff" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<TextView android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Name :" />
+		<EditText android:textSize="12sp" android:textColor="000" android:textColorHint="607d8b" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2" android:hint="Edit Text" />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:background="ffffff" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<TextView android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Age :" />
+		<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+			<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="11-14" />
+			<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="15-18" />
+			<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="19-22" />
+		</LinearLayout>
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<TextView android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Gender:" />
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Male" />
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Female" />
+	</LinearLayout>
+	<Button android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2" android:text="Next" />
+</LinearLayout>

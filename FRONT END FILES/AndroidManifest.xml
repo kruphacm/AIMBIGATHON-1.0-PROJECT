@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.my.newproject" platformBuildVersionCode="27" platformBuildVersionName="8.1.0">
+	<uses-sdk android:minSdkVersion="19" android:targetSdkVersion="27" />
+	<application android:theme="resourceId:0x7f060000" android:label="Gochamp" android:icon="res/drawable-xhdpi-v4/app_icon.png" android:name=".SketchApplication" android:allowBackup="true" android:largeHeap="true">
+		<activity android:name=".MainActivity" android:screenOrientation="portrait" android:configChanges="0x480">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+		<activity android:name=".Page2Activity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".Page3Activity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".Page4Activity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".PsychologyActivity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".Pscho2Activity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".Pscho3Activity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".UrlActivity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".RisohudsonActivity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".Instructions1Activity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".Psycho4Activity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".Psycho5Activity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".Psycho6Activity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".Psycho7Activity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".Psycho8Activity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".Psycho9Activity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".Psycho10Activity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".AptitudeActivity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".App1Activity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".App2Activity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".App3Activity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".App4Activity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".NextappActivity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".NextpsyActivity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".CocurActivity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".Cocur1Activity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".Cocur2Activity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".Cocur3Activity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".Cocur4Activity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".Cocur5Activity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".ResultActivity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".AboActivity" android:screenOrientation="portrait" android:configChanges="0x480" />
+		<activity android:name=".DebugActivity" android:screenOrientation="portrait" />
+	</application>
+</manifest>

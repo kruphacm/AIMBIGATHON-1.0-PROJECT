@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+	<TextView android:textSize="30sp" android:textColor="000" android:gravity="0x1" android:layout_gravity="0x1" android:id="false" android:background="cddc39" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="About this Riso-Hudson Indicator " />
+	<TextView android:textSize="18sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="The Riso-Hudson Enneagram Type Indicator (RHETI) is a personality test that has been scientifically validated. It produces a full personality profile across all nine personality types. " />
+	<TextView android:textSize="18sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="This yields not only about user&apos;s main personality type, but also about other major personality structures." />
+	<Button android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2" android:text="Next" />
+</LinearLayout>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<TextView android:textSize="16sp" android:textColor="000" android:id="false" android:background="a1887f" android:padding="8dp" android:layout_width="-1" android:layout_height="-2" android:text="Step 2 of 4 : WORK STYLE" />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<TextView android:textSize="14sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Integrity : being honest and ethical" />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Low" />
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Medium" />
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="High" />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<TextView android:textSize="14sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Sociability : preferring to work with others rather than alone" />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Low" />
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Medium" />
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="High" />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<TextView android:textSize="14sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Adaptability: open to change" />
+	</LinearLayout>
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Low" />
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="Medium" />
+		<CheckBox android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="High " />
+	</LinearLayout>
+	<Button android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2" android:text="Next" />
+</LinearLayout>

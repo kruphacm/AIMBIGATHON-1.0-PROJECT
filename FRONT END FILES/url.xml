@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+	<TextView android:textSize="18sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2" android:text="Based on your results these are the recommended psychiatrist and career councilors available on board..." />
+	<TextView android:textSize="12sp" android:textColor="000" android:id="false" android:background="90a4ae" android:padding="8dp" android:layout_width="-1" android:layout_height="-2" android:text="Click here to choose your councillor " />
+	<LinearLayout android:orientation="0" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+		<Button android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2" android:text="ABOUT US" />
+	</LinearLayout>
+</LinearLayout>

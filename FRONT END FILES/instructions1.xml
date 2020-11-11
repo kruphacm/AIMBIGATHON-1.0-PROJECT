@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+	<TextView android:textSize="30sp" android:textColor="000" android:gravity="0x1" android:layout_gravity="0x1" android:id="false" android:background="b2ebf2" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="STANDING INSTRUCTIONS " />
+	<TextView android:textSize="16sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="1. This inventory contains 20 test situations. Choose the one which suits you best." />
+	<TextView android:textSize="16sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="2. When you respond to the situations, attempt to focus on how you really are and not how you think you should be." />
+	<TextView android:textSize="16sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="3. There is no time limit to complete this personality test." />
+	<TextView android:textSize="16sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-2" android:layout_height="-2" android:text="4. There are no right or wrong answers. Choose the way you act in those situations." />
+	<Button android:textSize="12sp" android:textColor="000" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2" android:text="START" />
+</LinearLayout>
